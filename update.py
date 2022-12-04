@@ -6,7 +6,7 @@ from subprocess import run as srun
 
 from requests import get as rget
 
-UPSTREAM_REPO = "https://github.com/prajith2252/tmafilesbot"#environ.get('UPSTREAM_REPO')
+UPSTREAM_REPO = "https://github.com/Anubisop17/Tragic"#environ.get('UPSTREAM_REPO')
 
 UPSTREAM_BRANCH = "master" 
 
